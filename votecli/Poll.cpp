@@ -1,5 +1,5 @@
 #include "Poll.h"
-
+#include "Ballot.h"
 
 
 CPoll::CPoll()

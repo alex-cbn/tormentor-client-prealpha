@@ -1,10 +1,10 @@
 #include "Ballot.h"
-
+#include <string>
 
 
 CBallot::CBallot()
 {
-	m_Message = 0;
+	m_Message = "";
 }
 
 
