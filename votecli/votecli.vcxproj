@@ -139,6 +139,45 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Ballot.cpp" />
+    <ClCompile Include="Ballot_multi.cpp" />
+    <ClCompile Include="Ballot_multi_user.cpp" />
+    <ClCompile Include="Ballot_single.cpp" />
+    <ClCompile Include="Ballot_single_user.cpp" />
+    <ClCompile Include="Ballot_YN.cpp" />
+    <ClCompile Include="Crypto.cpp" />
+    <ClCompile Include="DBoperations.cpp" />
+    <ClCompile Include="DBQuery.cpp" />
+    <ClCompile Include="FactoryBallot.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="Network.cpp" />
+    <ClCompile Include="Network_Access.cpp" />
+    <ClCompile Include="Poll.cpp" />
+    <ClCompile Include="Poll_multi.cpp" />
+    <ClCompile Include="Poll_multi_user.cpp" />
+    <ClCompile Include="Poll_single.cpp" />
+    <ClCompile Include="Poll_single_user.cpp" />
+    <ClCompile Include="Poll_YN.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Ballot.h" />
+    <ClInclude Include="Ballot_multi.h" />
+    <ClInclude Include="Ballot_multi_user.h" />
+    <ClInclude Include="Ballot_single.h" />
+    <ClInclude Include="Ballot_single_user.h" />
+    <ClInclude Include="Ballot_YN.h" />
+    <ClInclude Include="Crypto.h" />
+    <ClInclude Include="DBoperations.h" />
+    <ClInclude Include="DBQuery.h" />
+    <ClInclude Include="FactoryBallot.h" />
+    <ClInclude Include="Network.h" />
+    <ClInclude Include="Network_Access.h" />
+    <ClInclude Include="Poll.h" />
+    <ClInclude Include="Poll_multi.h" />
+    <ClInclude Include="Poll_multi_user.h" />
+    <ClInclude Include="Poll_single.h" />
+    <ClInclude Include="Poll_single_user.h" />
+    <ClInclude Include="Poll_YN.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
