@@ -156,7 +156,11 @@
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Network.cpp" />
     <ClCompile Include="Network_Access.cpp" />
+    <ClCompile Include="Notification.cpp" />
+    <ClCompile Include="Notification_Handler.cpp" />
+    <ClCompile Include="Notification_win.cpp" />
     <ClCompile Include="Poll.cpp" />
+    <ClCompile Include="Poll_handler.cpp" />
     <ClCompile Include="Poll_multi.cpp" />
     <ClCompile Include="Poll_multi_user.cpp" />
     <ClCompile Include="Poll_single.cpp" />
@@ -176,12 +180,19 @@
     <ClInclude Include="FactoryBallot.h" />
     <ClInclude Include="Network.h" />
     <ClInclude Include="Network_Access.h" />
+    <ClInclude Include="Notification.h" />
+    <ClInclude Include="Notification_Handler.h" />
+    <ClInclude Include="Notification_win.h" />
     <ClInclude Include="Poll.h" />
+    <ClInclude Include="Poll_handler.h" />
     <ClInclude Include="Poll_multi.h" />
     <ClInclude Include="Poll_multi_user.h" />
     <ClInclude Include="Poll_single.h" />
     <ClInclude Include="Poll_single_user.h" />
     <ClInclude Include="Poll_YN.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram.cd" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

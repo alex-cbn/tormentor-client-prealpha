@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CBallot">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAQAAAAAAAAAAAAAAACAAAAAAAAAAAIAA=</HashCode>
+      <FileName>Ballot.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CBallot_multi">
+    <Position X="2.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAgAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Ballot_multi.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CBallot_multi_user">
+    <Position X="5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAIAAAAAAEAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Ballot_multi_user.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CBallot_single">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Ballot_single.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CBallot_single_user">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAQAAAAAAAIAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Ballot_single_user.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CBallot_YN">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>Ballot_YN.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CCrypto">
+    <Position X="22.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAQAAAAAgAAAAAAAAAABAAIAAAAAAA=</HashCode>
+      <FileName>Crypto.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CDBoperations">
+    <Position X="18" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAEAASAAAAAAAEAQAABAAAAAAAAIAAA=</HashCode>
+      <FileName>DBoperations.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CDBQuery">
+    <Position X="18" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAASAAAAAABEAAAAAEAAAoAAgAAAA=</HashCode>
+      <FileName>DBQuery.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CFactoryBallot">
+    <Position X="0.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAASCABAEAAAIAAAAAAAAAKAAAAAAAAAAA=</HashCode>
+      <FileName>FactoryBallot.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CNetwork">
+    <Position X="19.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAA=</HashCode>
+      <FileName>Network.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CNetwork_Access">
+    <Position X="19.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Network_Access.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPoll">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAEAAAAAAAAAAAAAAAAAAQAAAAAAAIAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Poll.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPoll_multi">
+    <Position X="10.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAABAAAAAAAAAAAABAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Poll_multi.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPoll_multi_user">
+    <Position X="12.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgEAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Poll_multi_user.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPoll_single">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>Poll_single.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPoll_single_user">
+    <Position X="12.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEgAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Poll_single_user.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPoll_YN">
+    <Position X="8.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAAAAAAAAABAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Poll_YN.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CNotification">
+    <Position X="15" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAgAAAQAAAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>Notification.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CNotification_win">
+    <Position X="15" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAAAAAAQAgAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Notification_win.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CNotification_Handler">
+    <Position X="15" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAAAAAQAAAAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Notification_Handler.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPoll_handler">
+    <Position X="8.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAAAEBAQAAAAAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>Poll_handler.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
